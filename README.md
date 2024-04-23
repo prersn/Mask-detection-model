@@ -9,8 +9,8 @@ The Mask Detection System is an AI-powered application designed to automatically
 - **Scalable Deployment:** The system can be deployed on edge devices or cloud platforms, offering scalability to meet the requirements of different deployment scenarios.
 - **Customizable:** Users have the flexibility to customize the system according to specific use cases, such as adjusting detection thresholds or integrating with existing security systems.
 
-- **Download Pre-trained Model:**
-   - If you want to try out the pre-trained model, it is uploaded as "my_mnist_model.pt" and place it in the `yolov5` directory of the project.
+## Download Pre-trained Model:
+- **If you want to try out the pre-trained model, it is uploaded as "my_mnist_model.pt" and place it in the `yolov5` directory of the project.**
 
 
 ## Getting Started
