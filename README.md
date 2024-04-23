@@ -39,7 +39,9 @@ Follow these instructions to get the Mask Detection System up and running on you
 
 - Annotate images of people with and without masks using Roboflow or any other annotation tool.
 - Export the annotated dataset from Roboflow and place it in the `data` directory of the project.
-- Alternatively, you can use an alternate dataset provided as a zip file downloaded from Roboflow. Extract the contents of the zip file and place them in the `data` directory of this repository.
+- Alternatively, you can use an alternate dataset provided as a zip file downloaded from Roboflow. Extract the contents of the zip file from the google link provided and place them in the `data` directory of this repository.
+
+link: https://drive.google.com/file/d/1cuw0If6aAyJtW9X3ltSTXxrmCgXHPQcO/view?usp=drive_link
 
 ### Train Model
 
@@ -86,4 +88,4 @@ We would like to thank the open-source community for their contributions and sup
 
 ## About the Author
 
-This project is developed and maintained by [Your Name]. For any questions, feedback, or inquiries, please contact [your email or preferred contact information].
+This project is developed and maintained by Prerana S Naik. 
