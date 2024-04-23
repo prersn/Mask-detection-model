@@ -93,6 +93,4 @@ This project is licensed under the MIT License, allowing for both personal and c
 
 We would like to thank the open-source community for their contributions and support in developing this project.
 
-## About the Author
 
-This project is developed and maintained by Prerana S Naik. 
