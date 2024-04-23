@@ -86,4 +86,4 @@ We would like to thank the open-source community for their contributions and sup
 
 ## About the Author
 
-This project is developed and maintained by Prerana Naik.  
+This project is developed and maintained by [Your Name]. For any questions, feedback, or inquiries, please contact [your email or preferred contact information].
