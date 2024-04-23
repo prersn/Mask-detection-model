@@ -9,6 +9,8 @@ The Mask Detection System is an AI-powered application designed to automatically
 - **Scalable Deployment:** The system can be deployed on edge devices or cloud platforms, offering scalability to meet the requirements of different deployment scenarios.
 - **Customizable:** Users have the flexibility to customize the system according to specific use cases, such as adjusting detection thresholds or integrating with existing security systems.
 
+## Go through the ppt uploaded to get a good idea about the project
+
 ## Download Pre-trained Model:
 - **If you want to try out the pre-trained model, it is uploaded as "my_mnist_model.pt" and place it in the `yolov5` directory of the project.**
 
@@ -44,6 +46,7 @@ Follow these instructions to get the Mask Detection System up and running on you
 - Annotate images of people with and without masks using Roboflow or any other annotation tool.
 - Export the annotated dataset from Roboflow and place it in the `data` directory of the project.
 - Alternatively, you can use an alternate dataset provided as a zip file downloaded from Roboflow. Extract the contents of the zip file from the google link provided and place them in the `data` directory of this repository.
+- **The dataset provided was made by annotating 2295 images and it resulted in generating 5431**
 
 link: https://drive.google.com/file/d/1cuw0If6aAyJtW9X3ltSTXxrmCgXHPQcO/view?usp=drive_link
 
