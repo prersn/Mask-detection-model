@@ -85,9 +85,6 @@ link: https://drive.google.com/file/d/1cuw0If6aAyJtW9X3ltSTXxrmCgXHPQcO/view?usp
 
 Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit pull requests to help make the Mask Detection System even better.
 
-## License
-
-This project is licensed under the MIT License, allowing for both personal and commercial use with proper attribution.
 
 ## Acknowledgments
 
